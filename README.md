@@ -9,7 +9,7 @@
     <img alt="Snyk Vulnerabilities for GitHub Repo" src="https://img.shields.io/snyk/vulnerabilities/github/digitalocean/hacktoberfest">
 </p>
 <p align="center">
-    <img src="/app/assets/images/HF-full-logo.svg" alt="Hacktoberfest-2020 Logo" width="350">
+    <img src="https://user-images.githubusercontent.com/72662295/135561666-aa5b267f-4513-414b-947a-e2189da9070f.png" alt="Hacktoberfest-2020 Logo" width="350">
 </p>
 
 ## Features
